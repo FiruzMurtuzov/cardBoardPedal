@@ -14,7 +14,7 @@ based on the angle, using ydotool, it "presses" arrow keys hence : accelerating,
 
 here is a demo video :
 
-![demo](./demoVideo.mp4)
+![demo](./demoVideo1.mp4)
 
 
 
