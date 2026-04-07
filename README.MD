@@ -14,7 +14,7 @@ based on the angle, using ydotool, it "presses" arrow keys hence : accelerating,
 
 here is a demo video :
 
-![demo](./demoVideo1.mp4)
+![demo](./demoGif.gif)
 
 
 
@@ -25,4 +25,5 @@ then :
 pip install -r requirements.txt
 python pedal.py
 ```
+I tried this with https://hexgl.bkcore.com/. 
 Also install ydotool.
